@@ -1,6 +1,6 @@
 name: Sample Workflow
 on:
-  push: # enabling push event on master branch to fire the workflow
+  push: ## enabling push event on master branch to fire the workflow
     branches:
       - master
 jobs:
